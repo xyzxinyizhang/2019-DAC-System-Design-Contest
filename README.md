@@ -1,7 +1,9 @@
 # 2019 DAC System Design Contest
 # Overview
 The 2019 System Design Contest features embedded system implementation of neural network based object detection for drones. Contestants will receive training dataset provided by our industry sponsor DJI, and a hidden dataset will be used to evaluate the performance of the designs in terms of accuracy and power. Contestants will compete in two different categories: FPGA and GPU, and grand cash awards will be given to the top three teams in each category. In addition, our industry sponsor Xilinx and Nvidia will provide a limited number of teams successfully registered with a free design kit (on a first-come-first-served basis). The award ceremony will be held at 2018 IEEE/ACM Design Automation Conference. The contest detail can be found at [DAC webpage](http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/index.html "悬停显示"). The contest supporting source code can be found [here](https://github.com/jgoeders/dac_2019_contest "悬停显示").
-# ORGANIZING COMMITTEE
+
+The 2018 System Design Contest winners designs can be found [here](https://github.com/xyzxinyizhang/2018-DAC-System-Design-Contest/blob/master/README.md "悬停显示").
+# ORGANIZING COMMITTEE 
 Jingtong Hu, Chair
 University of Pittsburgh
 
@@ -40,7 +42,7 @@ A sample dataset can be download [here](https://pitt.box.com/s/cq6edt2zm99s1zwa3
 
 # FPGA WINNERS
 ***
-#### First Place
+#### First Place (Xilinx Ultra96)
 [iSmart3](https://github.com/TomG008/SkyNet "悬停显示") - University of Illinois Urbana-Champaign  
 Cong Hao
 ***
@@ -53,7 +55,7 @@ Boran Zhao
 Kaan Kara
 ***
 The detailed ranking can be found [here](http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/ranking.html#final "悬停显示")
-# GPU WINNERS
+# GPU WINNERS (NVIDIA TX-2)
 ***
 #### First Place
 [iSmart3-SkyNet](https://github.com/TomG008/SkyNet "悬停显示") - University of Illinois Urbana-Champaign   
