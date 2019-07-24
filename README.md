@@ -42,7 +42,7 @@ A sample dataset can be download [here](https://pitt.box.com/s/cq6edt2zm99s1zwa3
 ***
 #### First Place
 [iSmart3](https://github.com "悬停显示") - University of Illinois Urbana-Champaign  
-Co Hao
+Cong Hao
 ***
 #### Second Place
 [XJTU_Tripler](https://github.com "悬停显示") - Xi'an Jiaotong University  
