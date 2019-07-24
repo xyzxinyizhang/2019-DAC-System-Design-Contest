@@ -41,7 +41,7 @@ A sample dataset can be download [here](https://pitt.box.com/s/cq6edt2zm99s1zwa3
 # FPGA WINNERS
 ***
 #### First Place
-[iSmart3](https://github.com "悬停显示") - University of Illinois Urbana-Champaign  
+[iSmart3](https://github.com/TomG008/SkyNet "悬停显示") - University of Illinois Urbana-Champaign  
 Cong Hao
 ***
 #### Second Place
@@ -56,7 +56,7 @@ The detailed ranking can be found [here](http://www.cse.cuhk.edu.hk/~byu/2019-DA
 # GPU WINNERS
 ***
 #### First Place
-[iSmart3-SkyNet](https://github.com "悬停显示") - University of Illinois Urbana-Champaign   
+[iSmart3-SkyNet](https://github.com/TomG008/SkyNet "悬停显示") - University of Illinois Urbana-Champaign   
 Xiaofan Zhang
 ***
 #### Second Place
